@@ -11,7 +11,7 @@ public class BlogPost {
     private long id;
     private String category;
     private String title;
-    private String conver;
+    private String cover;
     private String contenuto;
     private int tempoLettura;
 
